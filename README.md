@@ -130,3 +130,7 @@ make run      # собрать и играть, с выводом данных �
 обновлением macOS, и с ним нельзя попасть в Mac App Store. Раскладка структур взята из
 [OpenMultitouchSupport](https://github.com/Kyome22/OpenMultitouchSupport) и
 [TrackWeight](https://github.com/krishkumar/TrackWeight).
+
+## License
+
+MIT, see [LICENSE](LICENSE).
